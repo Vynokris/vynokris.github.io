@@ -74507,12 +74507,11 @@ b.n(0,"Content-type","application/json")
 o=p.e
 n=p.f
 m=p.r
-l=B.W.gjX().cO('        Content-Type: text/html; charset="us-ascii"\n        MIME-Version: 1.0\n        Content-Transfer-Encoding: 7bit\n        to: remi.serra1@gmail.com\n        from: '+a+"\n        subject: "+o+" from Portfolio\n        Sender email: "+n+"<br/><br/>"+m)
-m=t.N
-k=B.b4.jW(A.aF(["raw",B.mC.gjX().cO(l)],m,m))
+l=B.W.gjX().cO("        Content-Type: text/plain; charset=UTF-8\n        MIME-Version: 1.0\n        To: remi.serra1@gmail.com\n        From: "+a+"\n        Subject: "+o+" from Portfolio\n\n        Sender email: "+n+"\n\n        "+m+"\n        ")
+k=A.aF(["raw",B.mC.gjX().cO(l)],t.N,t.z)
 j=A.aEJ("https","www.googleapis.com","/gmail/v1/users/"+a+"/messages/send",null)
 s=3
-return A.a6(A.aI_(j,k,b),$async$td)
+return A.a6(A.aI_(j,B.b4.jW(k),b),$async$td)
 case 3:i=d
 o=i.b
 if(o!==200){p.ac(new A.aeh(i,j))
