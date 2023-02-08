@@ -74624,10 +74624,10 @@ k=A.bi("Contact me:",q,q,q,q,l.iW(k,p,50*$.b2),q,q)
 l=$.dl
 return A.dK(A.a([n,j,i,m,r,k,A.aD(q,20*l,q),new A.vl(q),A.aD(q,50*l,q)],s),B.S,B.B)}}
 A.WK.prototype={
-$0(){B.dV.rs(window,"documents/SERRA R\xe9mi - CV - English.pdf","_blank")},
+$0(){B.dV.rs(window,"https://drive.google.com/file/d/14xlkbTL-INToQ6XEDnauigO0qhRmCA5D/view?usp=share_link","_blank")},
 $S:0}
 A.WL.prototype={
-$0(){B.dV.rs(window,"documents/SERRA R\xe9mi - CV - Fran\xe7ais.pdf","_blank")},
+$0(){B.dV.rs(window,"https://drive.google.com/file/d/14zdYsjhyMN_74pYP4wIzEYoz0nm3PyTb/view?usp=share_link","_blank")},
 $S:0}
 A.qW.prototype={
 am(){return new A.R7(null,null,B.k)}}
