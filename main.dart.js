@@ -74515,7 +74515,7 @@ l=B.W.gjX().cO('        Content-Type: text/html; charset="us-ascii"\n        MIM
 m=t.N
 k=B.bd.jW(A.aF(["raw",B.mE.gjX().cO(l)],m,m))
 s=3
-return A.a6(A.aI1(A.aEI("https","https://www.googleapis.com/gmail/v1/users/"+a+"/messages/send","",null),k,b),$async$td)
+return A.a6(A.aI1(A.aEI("https","www.googleapis.com","/gmail/v1/users/"+a+"/messages/send",null),k,b),$async$td)
 case 3:j=d
 if(j.b!==200){p.ac(new A.aei(p))
 s=1
