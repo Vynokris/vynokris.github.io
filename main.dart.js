@@ -72264,7 +72264,7 @@ return null},
 a4p(a){if(a.length===0)return"Message is empty. Please fill it."
 return null},
 a2I(a,b,c){var s=t.N
-A.amd(A.aqA(b,new A.adr().$1(A.aN(["subject","Feedback from "+c,"body",a],s,s)),"mailto"))},
+A.amd(A.aqA(b,new A.adr().$1(A.aN(["subject",c+" from Portfolio","body",a],s,s)),"mailto"))},
 J(a){var s,r,q,p,o,n=this,m=null,l=A.S(a),k=A.Ue(20)
 n.a.toString
 s=l.ax
