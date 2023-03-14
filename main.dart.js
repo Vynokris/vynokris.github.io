@@ -73787,7 +73787,7 @@ o=q.c.S(t.Pu)
 o.toString
 s=q.d
 r=new A.aO(40,40)
-o.f.Qg(A.aqf(p,p,s.ax.cy,p,B.G,p,A.p2(A.bb("Press the card to flip it!",p,p,p,p,s.p3.f,p,p),p,p),B.nC,A.cj(0,0,3),p,p,p,p,p,new A.bX(new A.c0(r,r,B.J,B.J),B.t),p,p))},
+o.f.Qg(A.aqf(p,p,s.ax.cy,p,B.G,p,A.p2(A.bb("Press the card to flip it!",p,p,p,p,s.p3.r,p,p),p,p),B.nC,A.cj(0,0,3),p,p,p,p,p,new A.bX(new A.c0(r,r,B.J,B.J),B.t),p,p))},
 $S:0}
 A.afm.prototype={
 $0(){this.a.d=B.b.i6($.akh(),this.b)},
