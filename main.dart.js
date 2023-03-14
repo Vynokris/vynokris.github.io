@@ -73778,7 +73778,7 @@ return A.ds(A.a([q,A.a9n(new A.bv(B.Br,A.bb("< Go back to projects",s,s,s,s,r.p3
 J(a){return this.d<0?this.Qb(a):this.Qf(a)}}
 A.afo.prototype={
 $1(a){var s=a.a,r=a.b,q=a.f
-return new A.Ir(new A.afn(this.a,a,this.b,this.c),s,r,q.a*0.57,q.b*0.57,q.c,q.e,null)},
+return new A.Ir(new A.afn(this.a,a,this.b,this.c),s,r,q.a*0.5,q.b*0.5,q.c,q.e,null)},
 $S:418}
 A.afn.prototype={
 $0(){var s,r,q=this,p=null,o=q.a
