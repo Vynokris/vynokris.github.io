@@ -3,10 +3,10 @@
     "short_name": "portfolio",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#303848",
+    "theme_color": "#BF9268",
+    "description": "Rémi Serra's portfolio.",
+    "orientation": "natural",
     "prefer_related_applications": false,
     "icons": [
         {
